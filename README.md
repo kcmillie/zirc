@@ -1,4 +1,4 @@
-# ZIRC - The 100% Zsh IRC client :)
+# ZIRC - The 100% Zsh IRC client
 
 ZIRC is an IRC client. It hooks into ZLE's asynchronous select() support and
 ZSH's builtin TCP support to do everything. Not a *single* external, non-zsh
